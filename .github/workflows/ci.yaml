@@ -1,4 +1,4 @@
-name: Démo packaging Docker
+name: "Demo packaging Docker"
 
 on:
   push:
